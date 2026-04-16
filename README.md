@@ -1,30 +1,30 @@
-# ✍️ Handwritten Character Recognition
+#  Handwritten Character Recognition
 
 This project uses Deep Learning to recognize handwritten digits/characters.
 
-## 🚀 Model Used
+##  Model Used
 
 * Convolutional Neural Network (CNN)
 
-## 📊 Dataset
+##  Dataset
 
 * MNIST Dataset
 
-## 📌 Features
+##  Features
 
 * Image preprocessing
 * Model training using CNN
 * Accuracy evaluation
 
-## ▶️ How to Run
+##  How to Run
 
 1. Install required libraries
 2. Run the notebook
 
-## 📷 Output
+##  Output
 
 Model predicts handwritten digits correctly.
 
-## 🔗 GitHub Repository
+##  GitHub Repository
 
 (automatic)
